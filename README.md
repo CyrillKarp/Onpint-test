@@ -9,5 +9,7 @@ What's done:
 4. Points navigating the presentation
 5. An animated pulsating circles
 
-Life demo: 
+**View only in Ipad resolution (1024x768)**
+
+Life demo: https://cyrillkarp.github.io/onpoint-test/
 
